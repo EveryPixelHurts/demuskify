@@ -37,7 +37,3 @@ We may update this Privacy Policy from time to time to reflect changes to the Ex
 8. Contact Us
 
 If you have any questions or concerns about this Privacy Policy or Demuskify, please contact us at pablo+chromeextensions@everypixelhurts.com.
-
-Please remember that this template is just a starting point, and you should customize it to accurately reflect your extension's privacy practices and your specific contact information.
-
-Once you have your privacy policy ready, you can link to it from the Chrome Web Store or Firefox Add-ons page where users can install your extension.
